@@ -2,7 +2,7 @@ I'm a  python developer, seeking advanced technologies and Lead Innovation Wave,
 
 - 👋 Hi, I’m @sowmya-ch-19
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning LLM
+- 🌱 I’m currently learning LLM models
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me through https://www.linkedin.com/in/sowmya-cherukupally-a92911251/
 - 😄 Pronouns: She/Her

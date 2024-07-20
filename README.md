@@ -1,4 +1,4 @@
-I'm a  python developer, seeking advanced technologies and Lead Innovation Wave,Powering the Future with AI and Machine Learning Solutions
+I'm a  python developer, seeking advanced technologies and Lead Innovation Wave,Powering the Future with AI Solutions
 
 - 👋 Hi, I’m @sowmya-ch-19
 - 👀 I’m interested in learning new technologies
